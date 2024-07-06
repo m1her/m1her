@@ -37,4 +37,8 @@
 <br> 
 
 <h1 align="center">Github Stats💻</h1>
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1her&theme=dracula&show_icons=true)
+
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=m1her&show_icons=true&theme=material-palenight" style="width: 530px; height: auto;">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1her&show_icons=true&theme=material-palenight&layout=compact" style="width: 475px; height: auto;">
+</div>
