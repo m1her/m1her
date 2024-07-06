@@ -36,9 +36,28 @@
 
 <br> 
 
+<h1 align="center">Reach Me At📱</h1>
+
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-nassrallah-620235240/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311549485434142720)
+[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01930321566bca0463)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/m1her)
+
+</div>
+
+
+<br> 
+
 <h1 align="center">Github Stats💻</h1>
 
 <div align="center">
 <img align=top src="https://github-readme-stats.vercel.app/api?username=m1her&show_icons=true&theme=material-palenight">
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1her&show_icons=true&theme=material-palenight&layout=compact">
 </div>
+
+
+
+
+
