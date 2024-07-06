@@ -44,6 +44,9 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311549485434142720)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01930321566bca0463)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/m1her)
+[![Khamsat Services](https://img.shields.io/badge/5_Khamsat-orange?style=for-the-badge)](https://khamsat.com/user/maher_nas)
+[![Mostaqel Projects](https://img.shields.io/badge/Mostaqel-blue?style=for-the-badge&logo=Okta)](https://mostaql.com/u/maher_nas)
+
 
 </div>
 
