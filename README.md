@@ -9,7 +9,7 @@
 
 <br>
 
-<div align="center">I graduated as a software engineer from Al Azhar University, Gaza in September 2023 🎓. I'm a passionate learner who loves programming and is always eager to learn and work hard 💻. Currently, I'm a web developer 🌐, and im working in my problem-solving, data structures, and backend development skills 🔍. I'm also continuously improving my front-end web development skills to become even more proficient 🚀. My goal is to have a satisfying job and lead a successful, peaceful life ✨.</div>
+<div align="center">I graduated as a software engineer from Al Azhar University of Gaza in September 2023 🎓. I'm a passionate learner who loves programming and is always eager to learn and work hard 💻. Currently, I'm a web developer 🌐, and im working in my problem-solving, data structures, and backend development skills 🔍. I'm also continuously improving my front-end web development skills to become even more proficient 🚀. My goal is to have a satisfying job and lead a successful, peaceful life ✨.</div>
 
 <br> 
 
