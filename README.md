@@ -1,12 +1,6 @@
 ![Landing Page(15)](https://github.com/m1her/m1her/assets/106315157/09d5ed83-43dc-411e-a4cb-8353c25b05c7)
 
 
-<div align="center">
-    <img src="https://badges.pufler.dev/visits/m1her/badge-it?color=blueviolet" alt="Commits Badge">
-    <img src="https://badges.pufler.dev/repos/m1her?color=blueviolet" alt="Stars">
-    <img src="https://badges.pufler.dev/commits/monthly/m1her?color=blueviolet" alt="Commits Badge">
-</div>
-
 <br>
 
 <div align="center">I graduated as a software engineer from Al Azhar University of Gaza in September 2023 🎓. I'm a passionate learner who loves programming and is always eager to learn and work hard 💻. Currently, I'm a web developer 🌐, and im working in my problem-solving, data structures, and backend development skills 🔍. I'm also continuously improving my front-end web development skills to become even more proficient 🚀. My goal is to have a satisfying job and lead a successful, peaceful life ✨.</div>
